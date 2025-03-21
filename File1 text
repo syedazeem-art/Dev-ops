@@ -1,1 +1,12 @@
+Project: DevOps Implementation for Business Scenario
 
+This project demonstrates the implementation of a DevOps solution for a given business scenario. The goal is to automate the software development lifecycle, including version control, continuous integration/continuous deployment (CI/CD), containerization, and serverless architecture.
+
+Key Components:
+- Git for version control
+- Jenkins for CI/CD pipeline
+- Docker for containerization
+- Kubernetes for orchestration
+- AWS Lambda for serverless architecture
+
+This project is part of the M.Sc. Software Engineering program at the University of Bolton (SWE 7303 - DevOps).

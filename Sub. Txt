@@ -1,0 +1,7 @@
+This is my PR for remote repo.
+I am using a Repo repo to work with branches.
+
+Additional Notes:
+- The value 56789 in the error file has been corrected to 120000.
+- A new branch named "demo-pr" has been created to demonstrate pull requests.
+- The CI/CD pipeline has been set up using GitHub Actions.
